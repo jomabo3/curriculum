@@ -1515,7 +1515,7 @@ fieldset[disabled]
 }
 
 .btn-primary {
-  background-color: #378C3F;
+  background-color: #48AC87;
   color: #FFFFFF;
 }
 
@@ -2602,12 +2602,12 @@ textarea.form-control:focus, textarea.form-control:active {
 }
 
 .progress-container.progress-primary .progress-bar {
-  background: #378C3F;
+  background: #48AC87;
 }
 
 .progress-container.progress-primary .progress-value,
 .progress-container.progress-primary .progress-badge {
-  color: #378C3F;
+  color: #48AC87;
 }
 
 .progress-container.progress-info .progress {
@@ -2834,7 +2834,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #378C3F;
+  color: #48AC87;
 }
 
 h1, .h1 {
