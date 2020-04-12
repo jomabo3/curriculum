@@ -5618,7 +5618,7 @@ Created using IcoMoon - icomoon.io
     /* For Opera 11.1 to 12.0 */
     /* For Firefox 3.6 to 15 */
     background: -webkit-gradient(linear, left top, left bottom, from(#48ac87), color-stop(80%, #000));
-    background: linear-gradient(#378C3F 0%, #000 80%);
+    background: linear-gradient(#48ac87 0%, #000 80%);
     /* Standard syntax (must be last) */
     opacity: 0.76;
     filter: alpha(opacity=76);
@@ -7096,7 +7096,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 15px solid #48ac87;
   border-radius: 50%;
   height: 180px;
   width: 180px;
