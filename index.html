@@ -8,15 +8,14 @@
     <meta name="description" content="Curriculum Vitae de Josep Mas Bolufer."/>
 	<meta property="og:image" content="images/top.jpg"/>
 	  <meta name="theme-color" content="#48ac87" />
-	  <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-    <!-- Customize your theme here. -->
-    <item name="colorPrimary">@color/colorPrimary</item>
-    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-    <item name="colorAccent">@color/colorAccent</item>
-    <!-- Status bar stuff. -->
-    <item name="android:statusBarColor">@color/colorPrimaryDark</item>
-    <item name="android:windowLightStatusBar">true</item> 
-</style>
+	  
+
+    <style name="statusBarStyle" parent="@android:style/Theme.DeviceDefault.Light">
+            <item name="android:statusBarColor">@color/status_bar_color</item>
+            <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+
 	  <meta name="apple-mobile-web-app-status-bar-style" content="#48ac87">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
