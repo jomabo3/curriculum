@@ -7319,3 +7319,9 @@ a.credit {
 	transition:.3s; 
 	text-align: center;
 }
+
+.ir-arriba:hover {background:#48AC87}
+
+.ir-arriba:active{
+  transform:scale(1.1);
+}
